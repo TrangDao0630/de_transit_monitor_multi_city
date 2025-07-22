@@ -63,3 +63,9 @@ coverage.xml
 # ===================================================================
 .env
 *.log
+
+# Database files
+*.db
+
+# Raw data archives
+*.zip
