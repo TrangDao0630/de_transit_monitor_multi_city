@@ -63,3 +63,12 @@ coverage.xml
 # ===================================================================
 .env
 *.log
+
+# Database files
+*.db
+
+# Raw data archives
+*.zip
+
+#Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
